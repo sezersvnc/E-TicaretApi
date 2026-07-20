@@ -1,0 +1,16 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortam (Virtual Environment)
+mvenv/
+env/
+ENV/
+
+# Veritabanı (İsteğe bağlı, test veritabanını gizlemek istersen)
+db.sqlite3
+
+# Çevresel Değişkenler
+.env
