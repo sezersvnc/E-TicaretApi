@@ -25,4 +25,4 @@ Follow these steps to run the project locally on your machine.
 **1. Clone the repository**
 ```bash
 git clone [https://github.com/sezersvnc/E-TicaretApi](https://github.com/sezersvnc/E-TicaretApi)
-cd ecommerce-api
+cd ETICARET_API
